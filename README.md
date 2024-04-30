@@ -20,15 +20,15 @@
 <p align="center">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00"/>
-<img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=ff9900"/>
-<img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=0000ff"/>
-<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=6666ff"/>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=ff9900"/>
+<img src="https://img.shields.io/badge/CSS-ffffff?style=for-the-badge&logo=css3&logoColor=0000ff"/>
+<img src="https://img.shields.io/badge/Python-ffff00?style=for-the-badge&logo=python&logoColor=6666ff"/>
 <img src="https://img.shields.io/badge/C++-ffffff?style=for-the-badge&logo=cplusplus&logoColor=6666ff"/>
 <img src="https://img.shields.io/badge/Java-ffffff?style=for-the-badge&logo=oracle&logoColor=ffa500"/>
-<img src="https://img.shields.io/badge/R-20232A?style=for-the-badge&logo=r&logoColor=6666ff"/>
+<img src="https://img.shields.io/badge/R-cccccc?style=for-the-badge&logo=r&logoColor=6666ff"/>
 <img src="https://img.shields.io/badge/MongoDB-ffffff?style=for-the-badge&logo=mongodb&logoColor=00e600"/>
-<img src="https://img.shields.io/badge/DynamoDB-20232A?style=for-the-badge&logo=amazondynamodb&logoColor=6666ff"/>
-<img src="https://img.shields.io/badge/MySQL-20232A?style=for-the-badge&logo=mysql&logoColor=6666ff"/>
+<img src="https://img.shields.io/badge/DynamoDB-ffffff?style=for-the-badge&logo=amazondynamodb&logoColor=6666ff"/>
+<img src="https://img.shields.io/badge/MySQL-cccccc?style=for-the-badge&logo=mysql&logoColor=6666ff"/>
 <img src="https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=nodedotjs&logoColor=009900"/>
 <img src="https://img.shields.io/badge/Django-20232A?style=for-the-badge&logo=django&logoColor=004d00"/>
 </p>
