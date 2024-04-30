@@ -1,16 +1,15 @@
-### Hi there 👋
+<h1 align="center">About Me!</h1>
+<p align="center">I am an undergraduate computer science student at Youngstown State University. I am currently pursing my Bachelor's Degree in Computer Science. I am eager to connect and expand my knowledge to become the best software developer I can possibly be!</p>
 
-<!--
-**Ajmicco18/Ajmicco18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<a href="ajmicco@student.ysu.edu">
+<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=data:image/svg+xml;"/>
+</a>
+<a href="https://www.linkedin.com/in/anthony-micco/">
+<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">GitHub Stats</h1>
+<p align="center">
+</p>
