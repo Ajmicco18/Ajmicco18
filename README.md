@@ -1,15 +1,27 @@
-<h1 align="center">About Me!</h1>
+<h1>About Me!</h1>
 <p align="center">I am an undergraduate computer science student at Youngstown State University. I am currently pursing my Bachelor's Degree in Computer Science. I am eager to connect and expand my knowledge to become the best software developer I can possibly be!</p>
 
 <p align="center">
-<a href="ajmicco@student.ysu.edu">
-<img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=data:image/svg+xml;"/>
-</a>
-<a href="https://www.linkedin.com/in/anthony-micco/">
-<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+    <a href="ajmicco@student.ysu.edu">
+        <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=data:image/svg+xml;"/>
+    </a>
+    <a href="https://www.linkedin.com/in/anthony-micco/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
 </p>
 
-<h1 align="center">GitHub Stats</h1>
+<h1>GitHub Stats</h1>
 <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=graywhite&show_icons=true"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmicco18&layout=donut-vertical"/>
+</p>
+
+<h1>Tools Used</h1>
+<p align="center">
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=ffff00"/>
+<img src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=ff9900"/>
+<img src="https://img.shields.io/badge/CSS-20232A?style=for-the-badge&logo=css3&logoColor=0000ff"/>
+<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=6666ff"/>
+
 </p>
