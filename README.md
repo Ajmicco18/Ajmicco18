@@ -1,5 +1,5 @@
 <h1>About Me</h1>
-<p align="center">I am an undergraduate computer science student at Youngstown State University. I am currently pursing my Bachelor's Degree in Computer Science. I am eager to connect and expand my knowledge to become the best software developer I can possibly be!</p>
+<p align="center">I am a graduate Data Science & Statistics student at Youngstown State University. I recently completed my Bachelor's of Science in Computer Science and am looking to explore opportunitities in the software engineering and data science fields. I am eager to connect and expand my knowledge to be the most well-rounded developer I can possibly be!</p>
 
 <p align="center">
     <a href="ajmicco@student.ysu.edu">
