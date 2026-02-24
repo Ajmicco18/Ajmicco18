@@ -1,5 +1,6 @@
-<h1>About Me</h1>
-<p align="center">I am a graduate Data Science & Statistics student at Youngstown State University. I recently completed my Bachelor's of Science in Computer Science and am looking to explore opportunitities in the software engineering and data science fields. I am eager to connect and expand my knowledge to be the most well-rounded developer I can possibly be!</p>
+# About Me
+
+I am a graduate Data Science & Statistics student at Youngstown State University. I recently completed my Bachelor's of Science in Computer Science and am looking to explore opportunitities in the software engineering and data science fields. I am eager to connect and expand my knowledge to be the most well-rounded developer I can possibly be!
 
 <p align="center">
     <a href="ajmicco@student.ysu.edu">
@@ -9,11 +10,11 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
-<!--"https://github-readme-stats.vercel.app/api?username=Ajmicco18&theme=graywhite&show_icons=true"-->
-<h1>GitHub Stats</h1>
-<p align="center">
-    <img height=200 src="https://github-readme-stats-fast.vercel.app/api?username=Ajmicco18&theme=graywhite&show_icons=true"/>
-    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmicco18&hide=Jupyter%20Notebook&theme=graywhite&layout=donut"/>
+
+# GitHub Stats
+<p align="center">  
+    <img height=200 src="https://github-readme-stats-fast.vercel.app/api?username=Ajmicco18&theme=macos_dark&show_icons=true"/>
+    <img height=200 src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Ajmicco18&hide=Jupyter%20Notebook&theme=macos_dark&layout=donut"/>
 </p>
 
 <h1>Tools Used</h1>
