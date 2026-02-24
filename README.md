@@ -9,10 +9,10 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
-
+<!--"https://github-readme-stats.vercel.app/api?username=Ajmicco18&theme=graywhite&show_icons=true"-->
 <h1>GitHub Stats</h1>
 <p align="center">
-    <img height=200 src="https://github-readme-stats.vercel.app/api?username=Ajmicco18&theme=graywhite&show_icons=true"/>
+    <img height=200 src="https://github-readme-stats-fast.vercel.app/api?username=Ajmicco18&theme=graywhite&show_icons=true"/>
     <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajmicco18&hide=Jupyter%20Notebook&theme=graywhite&layout=donut"/>
 </p>
 
